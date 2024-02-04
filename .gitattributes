@@ -1,0 +1,5 @@
+Stanza[[:space:]]Norba_Armadio[[:space:]]fuori[[:space:]]stanza.glb filter=lfs diff=lfs merge=lfs -text
+Stanza[[:space:]]Norba_Muri.glb filter=lfs diff=lfs merge=lfs -text
+Stanza[[:space:]]Norba_Porta[[:space:]]stanza.glb filter=lfs diff=lfs merge=lfs -text
+Stanza[[:space:]]Norba_Tetto.glb filter=lfs diff=lfs merge=lfs -text
+triclinio.glb filter=lfs diff=lfs merge=lfs -text
